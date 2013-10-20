@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>A02AD8D5-19B9-4636-9012-E69153DEA8B6</string>
+	<string>4953D44D-558F-47E1-9217-33DBDF868FEF</string>
 	<key>IDESourceControlProjectName</key>
 	<string>testObjectiveC-001</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>C1C1D9BD-56D3-4962-ABCF-95BA80C24B28</string>
 			<key>IDESourceControlWCCName</key>
-			<string>testGitHub001</string>
+			<string>testObjectiveC-001</string>
 		</dict>
 	</array>
 </dict>
